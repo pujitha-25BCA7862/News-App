@@ -34,7 +34,7 @@ const App = () => {
           transition: "all 0.3s ease",
         }}
       >
-        <Router>
+        <Router basename="/News-App">
           <Navbar mode={mode} toggleChangeMode={toggleChangeMode} />
           <LoadingBar color="#f11946" progress={progress} />
           <Switch>
