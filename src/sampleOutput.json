@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Ben Stokes retires: England need more leadership change after captain's exit, says Michael Vaughan",
+      "description": "Former captain Michael Vaughan says he will be \"absolutely staggered\" if there is not more leadership change in English cricket after Ben Stokes' retirement.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f272/live/6c28d420-73a1-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-29T10:52:28.2257036Z",
+      "content": "Stokes, one of the most iconic figures of his generation, told his team-mates of his decision before day four and his retirement was announced at 15:25 BST. It was immediately followed by him taking … [+1225 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "England vs New Zealand LIVE: Third Test, day five, Trent Bridge - cricket score, radio & video highlights",
+      "description": "Follow live text updates, radio commentary and in-play video highlights as England play New Zealand in day five of the third Test at Trent Bridge.",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/cdxkngd3300t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/581e/live/7d5a8a80-7311-11f1-8e1d-bbbb1017d210.jpg",
+      "publishedAt": "2026-06-29T10:07:32.8433973Z",
+      "content": "Time to...\r\nSay...\r\nGoodbye...\r\nAll good things come to end, right? \r\nBen Stokes has retired from international cricket. He'll not be playing an active part in the game on the field today having been… [+267 chars]"
+    },
+    {
+      "source": { "id": "the-sport-bible", "name": "The Sport Bible" },
+      "author": "Ryan Smart",
+      "title": "Ben Stokes told two England players first about retirement plans before Brendon McCullum and Rob Key",
+      "description": "Stokes will stand down as Test captain and retire from international cricket following England's third Test against New Zealand.",
+      "url": "https://www.thesportbible.com/other/ben-stokes-england-retirement-team-mates-707953-20260629",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blta90d05ad41a54a71/blta23cfb0c0181ffa6/6a42400c96af1efd7f4d7234/Ben_Stokes.jpg",
+      "publishedAt": "2026-06-29T09:52:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Ben Stokes: England captain says retiring from international cricket is 'the best thing' for him",
+      "description": "Ben Stokes describes the reasons for his international retirement as he says he became 'burned out' in the build-up to the summer.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbbc/live/77216880-731d-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-28T19:37:24.7063162Z",
+      "content": "Ben Stokes said retiring from international cricket is the \"best thing\" for him after he revealed England's final Test against New Zealand will be his last.\r\nThe 35-year-old, one of the greatest cric… [+1658 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
